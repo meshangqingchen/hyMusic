@@ -11,8 +11,9 @@
   /* 不希望缩放 */
   /* flex-shrink: 0; */
   width: 220rpx;
-  margin-right: 24rpx;
+  margin-left: 24rpx;
 }
+
 .list .item:last-of-type{
   margin-right: 24rpx;
 }
